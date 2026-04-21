@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+    <!DOCTYPE html>
 <html lang="el">
 
 <head>
@@ -11,8 +11,8 @@
 <p>Το συγκεκριμένο side project αφορά ένα πλήρες επιστημονικό computeraki.Ο κάθε χρήστης έχει την δυνατότητα να κάνει οποιαδήποτε πράξη με <strong>ευκολία και αρκετή ταχύτητα καθως μιλαμε για ενα πρόγραμμα γραμμενο σε C++.</strong></p>
 <ol>ΤΙ ΒΡΙΣΚΕΙ ΚΑΠΟΙΟΣ ΣΤΑ GITHUB FILES MOY???
 <li>Στα assets βρίσκεται εικόνα της εφαρμογής</li>
-<li>Στα includes βρίσκονται τα header files</li>
-<li></li>
+<li>Στα includes βρίσκονται τα header files με τις δηλώσεις των συναρτήσεων και τον gui code</li>
+<li>Στo source τα cpp files τα οποία κάνουν include τα header files ωστέ ο κώδικας σε C++ να λειτοργήσει αποδοτικά</li>
 </ol>
 <ul>ΔΥΝΑΤΟΤΗΤΑ ΠΡΑΞΕΩΝ:
 <li>+,-,×,÷</li>
