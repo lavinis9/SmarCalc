@@ -107,7 +107,14 @@ int main()
             }
             else if (v1[i] == "tan")
             {
-                result = tan_num(*temp * M_PI / 180.0);
+                if (abs(cos(*temp * M_PI / 180.0)) <= 1e-9)
+                {
+                    return 0;
+                }
+                else
+                {
+                    result = tan_num(*temp * M_PI / 180.0);
+                }
             }
             else if (v1[i] == "cot")
             {
@@ -172,6 +179,10 @@ int main()
                 numbers.erase(numbers.begin() + k + 1);
                 op.erase(op.begin() + k);
                 k--;
+            }
+            else if (numbers[k + 1] == 0)
+            {
+                return 0;
             }
         }
     }
