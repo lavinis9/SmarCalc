@@ -19,7 +19,7 @@
 <br>
 <p>ΠΩΣ ΜΠΟΡΕΙ ΝΑ ΤΟ ΔΟΚΙΜΑΣΕΙ ΚΑΙ ΝΑ ΤΟ ΤΡΕΞΕΙ ΣΤΟΝ WINDOWS ΥΠΟΛΟΓΙΣΤΗ ΤΟΥ(BHMATA):</p>
 <ol>
-<li>Κατέβασε και εγκατέστησε το MinGW από το <a href="https://sourceforge.net/projects/mingw-w64/">mingw-w64.org</a></li>
+<li>Κατέβασε και εγκατέστησε το MinGW από το <a href="https://sourceforge.net/projects/mingw-w64/" target="_blank">mingw-w64.org</a></li>
 <li>Άνοιξε Command Prompt</li>
 <li>Πήγαινε στον φάκελο που έχεις το αρχείο:</li>
 <li>Κάνε compile με g++ basecode.cpp -o calculator -lm</li>
