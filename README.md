@@ -17,10 +17,10 @@
 </ul>
 <p>Ωστόσο έχω φροντίσει να μην είναι απλά ένα απλό computeraki που μπορείς να κάνεις μόνο πράξεις μεταξύ 2 αριθμών.Αντιθέτως εφαρμόζονται τεχνικές όπως tokenazation και parsing.</p>
 <br>
-<p>ΠΩΣ ΜΠΟΡΕΙ ΝΑ ΤΟ ΔΟΚΙΜΑΣΕΙ ΚΑΙ ΝΑ ΤΟ ΤΡΕΞΕΙ ΣΤΟΝ WINDOWS ΥΠΟΛΟΓΙΣΤΗ ΤΟΥ(BHMATA):</p>
+<p>ΠΩΣ ΜΠΟΡΕΙΣ ΝΑ ΤΟ ΔΟΚΙΜΑΣΕΙΣ ΚΑΙ ΝΑ ΤΟ ΤΡΕΞΕΙΣ ΣΤΟΝ ΥΠΟΛΟΓΙΣΤΗ ΣΟΥ(BHMATA):</p>
 <ol>
-<li>Κατέβασε και εγκατέστησε το MinGW από το <a href="https://sourceforge.net/projects/mingw-w64/"  target="_blank">mingw-w64.org</a></li>
-<li>Άνοιξε Command Prompt</li>
+<li>Στο Repository όταν μπείς θα δείς πάνω δεξία από τους φακέλους ένα πράσινο κουμπί Code</li>
+<li>Πατάς το συγκεκριμένο πράσινο κουμπί</li>
 <li>Πήγαινε στον φάκελο που έχεις το αρχείο:</li>
 <li>Κάνε compile με g++ basecode.cpp -o calculator -lm</li>
 <li>Τρέξε:calculator.exe</li>
