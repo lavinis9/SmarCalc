@@ -28,6 +28,23 @@
 <p><big>Καλή Απόλαυση Sir!!!!</big></p>
 <h3>ΠΑΡΑΚΑΤΩ ΚΑΙ ΣΤΑ ΑΓΓΛΙΚΑ</h3>
 <hr>
+    <p>This side project is a complete scientific calculator. Every user has the ability to perform any mathematical operation with <strong>ease and high speed, since we are talking about a program written in C++.</strong></p>
+<ul>AVAILABLE OPERATIONS:
+<li>+,-,×,÷</li>
+<li>cos,sin,tan,cot</li>
+<li>square root,log,^</li>
+</ul>
+<p>However, I have made sure that this is not just a simple calculator that allows you to perform operations between only 2 numbers. On the contrary, techniques such as tokenization and operator precedence are implemented.</p>
+<br>
+<p>HOW TO TEST AND RUN IT ON YOUR COMPUTER (STEPS):</p>
+<ol>
+<li>Once you enter the Repository, you will see a green Code button at the top right, above the folders.</li>
+<li>Click on this green button.</li>
+<li>Download the ZIP file.</li>
+<li>Extract the files.</li>
+<li>Open the project in any development environment of your choice and run it.</li>
+</ol>
+<p><big>Enjoy, Sir!!!!</big></p>
 </main> 
 </body>
 </html>
