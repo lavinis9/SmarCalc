@@ -26,7 +26,6 @@
 <li>Το ανοίγεις με όποιο περιβάλλον θες να το τρέξεις και το τρέχεις</li>
 </ol>
 <p><big>Καλή Απόλαυση Sir!!!!</big></p>
-<hr>
 <h3>ΠΑΡΑΚΑΤΩ ΚΑΙ ΣΤΑ ΑΓΓΛΙΚΑ</h3>
 <hr>
     <p>This side project is a complete scientific calculator. Every user has the ability to perform any mathematical operation with <strong>ease and high speed, since we are talking about a program written in C++.</strong></p>
